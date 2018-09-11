@@ -9,10 +9,13 @@
 6. [闭包](https://github.com/xujie-phper/huge-skills-summary/issues/6)
 7. [事件代理](https://github.com/xujie-phper/huge-skills-summary/issues/7)
 
-### react专题
 
 ### css专题
 1.[水平垂直居中](https://github.com/xujie-phper/huge-skills-summary/issues/8)
+
+
+### react专题
+
 
 ### vue专题
 
