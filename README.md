@@ -6,7 +6,8 @@
 3. [原型链和原型继承](https://github.com/xujie-phper/huge-skills-summary/issues/3)
 4. [变量提升和函数提升](https://github.com/xujie-phper/huge-skills-summary/issues/4)
 5. [作用域和上下文](https://github.com/xujie-phper/huge-skills-summary/issues/5)
-5. [闭包](https://github.com/xujie-phper/huge-skills-summary/issues/6)
+6. [闭包](https://github.com/xujie-phper/huge-skills-summary/issues/6)
+7. [事件代理](https://github.com/xujie-phper/huge-skills-summary/issues/6)
 
 ### react专题
 
