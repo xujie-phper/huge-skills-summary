@@ -11,7 +11,7 @@
 
 
 ### css专题
-1.[水平垂直居中](https://github.com/xujie-phper/huge-skills-summary/issues/8)
+1. [水平垂直居中](https://github.com/xujie-phper/huge-skills-summary/issues/8)
 
 
 ### react专题
@@ -22,5 +22,7 @@
 
 
 
-
+<br />
+<br />
+<br />
 **有补充的或者不对的地方欢迎指正，共同学习，若有所收获，欢迎star鼓励一下**
