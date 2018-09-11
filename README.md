@@ -7,7 +7,7 @@
 4. [变量提升和函数提升](https://github.com/xujie-phper/huge-skills-summary/issues/4)
 5. [作用域和上下文](https://github.com/xujie-phper/huge-skills-summary/issues/5)
 6. [闭包](https://github.com/xujie-phper/huge-skills-summary/issues/6)
-7. [事件代理](https://github.com/xujie-phper/huge-skills-summary/issues/6)
+7. [事件代理](https://github.com/xujie-phper/huge-skills-summary/issues/7)
 
 ### react专题
 
