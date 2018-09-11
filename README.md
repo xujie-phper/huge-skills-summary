@@ -12,6 +12,7 @@
 ### react专题
 
 ### css专题
+1.[水平垂直居中](https://github.com/xujie-phper/huge-skills-summary/issues/8)
 
 ### vue专题
 
