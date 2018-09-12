@@ -13,6 +13,7 @@
 
 ### css专题
 1. [水平垂直居中](https://github.com/xujie-phper/huge-skills-summary/issues/8)
+1. [浮动](https://github.com/xujie-phper/huge-skills-summary/issues/10)
 
 
 ### react专题
