@@ -8,7 +8,7 @@
 5. [作用域和上下文](https://github.com/xujie-phper/huge-skills-summary/issues/5)
 6. [闭包](https://github.com/xujie-phper/huge-skills-summary/issues/6)
 7. [事件代理](https://github.com/xujie-phper/huge-skills-summary/issues/7)
-8. [事件代理](https://github.com/xujie-phper/huge-skills-summary/issues/9)
+8. [防抖和节流](https://github.com/xujie-phper/huge-skills-summary/issues/9)
 
 
 ### css专题
