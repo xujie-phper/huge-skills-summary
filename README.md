@@ -9,12 +9,12 @@
 6. [闭包](https://github.com/xujie-phper/huge-skills-summary/issues/6)
 7. [事件代理](https://github.com/xujie-phper/huge-skills-summary/issues/7)
 8. [防抖和节流](https://github.com/xujie-phper/huge-skills-summary/issues/9)
-8. [call,apply,bind的原理和模拟实现](https://github.com/xujie-phper/huge-skills-summary/issues/11)
+9. [call,apply,bind的原理和模拟实现](https://github.com/xujie-phper/huge-skills-summary/issues/11)
 
 ### css专题
 1. [水平垂直居中](https://github.com/xujie-phper/huge-skills-summary/issues/8)
-1. [浮动和BFC](https://github.com/xujie-phper/huge-skills-summary/issues/10)
-
+2. [浮动和BFC](https://github.com/xujie-phper/huge-skills-summary/issues/10)
+3. [iphoneX的适配](https://github.com/xujie-phper/huge-skills-summary/issues/12)
 
 ### react专题
 
