@@ -22,6 +22,8 @@
 ### vue专题
 
 
+### 性能优化
+1. [预渲染](https://github.com/xujie-phper/huge-skills-summary/issues/13)
 
 
 <br />
