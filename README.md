@@ -24,6 +24,7 @@
 
 ### 性能优化
 1. [预渲染](https://github.com/xujie-phper/huge-skills-summary/issues/13)
+2. [浏览器缓存](https://github.com/xujie-phper/huge-skills-summary/issues/14)
 
 
 <br />
