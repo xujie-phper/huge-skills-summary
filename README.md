@@ -17,7 +17,7 @@
 3. [iphoneX的适配](https://github.com/xujie-phper/huge-skills-summary/issues/12)
 
 ### react专题
-
+1. [react知识拾遗](https://github.com/xujie-phper/huge-skills-summary/issues/15)
 
 ### vue专题
 
