@@ -16,6 +16,7 @@
 1. [水平垂直居中](https://github.com/xujie-phper/huge-skills-summary/issues/8)
 2. [浮动和BFC](https://github.com/xujie-phper/huge-skills-summary/issues/10)
 3. [iphoneX的适配](https://github.com/xujie-phper/huge-skills-summary/issues/12)
+4. [flex备忘录](https://github.com/xujie-phper/huge-skills-summary/issues/16)
 
 ### react专题
 1. [react知识拾遗](https://github.com/xujie-phper/huge-skills-summary/issues/15)
