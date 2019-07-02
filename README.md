@@ -28,7 +28,8 @@
 1. [预渲染](https://github.com/xujie-phper/huge-skills-summary/issues/13)
 2. [浏览器缓存](https://github.com/xujie-phper/huge-skills-summary/issues/14)
 
-
+### 其他
+1. [web鉴权](https://github.com/xujie-phper/huge-skills-summary/issues/18)
 <br />
 <br />
 <br />
