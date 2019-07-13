@@ -10,7 +10,8 @@
 7. [事件代理](https://github.com/xujie-phper/huge-skills-summary/issues/7)
 8. [防抖和节流](https://github.com/xujie-phper/huge-skills-summary/issues/9)
 9. [call,apply,bind的原理和模拟实现](https://github.com/xujie-phper/huge-skills-summary/issues/11)
-10. [require和import的使用区别](https://github.com/xujie-phper/huge-skills-summary/issues/17)
+10.[require和import的使用区别](https://github.com/xujie-phper/huge-skills-summary/issues/17)
+11.[JS实用小技巧](https://github.com/xujie-phper/huge-skills-summary/issues/20)
 
 ### css专题
 1. [水平垂直居中](https://github.com/xujie-phper/huge-skills-summary/issues/8)
