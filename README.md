@@ -32,6 +32,7 @@
 ### 其他
 1. [web鉴权](https://github.com/xujie-phper/huge-skills-summary/issues/18)
 2. [通用端调起](https://github.com/xujie-phper/huge-skills-summary/issues/19)
+3. [小程序互转](https://github.com/xujie-phper/huge-skills-summary/issues/21)
 <br />
 <br />
 <br />
