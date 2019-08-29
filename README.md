@@ -21,6 +21,7 @@
 
 ### react专题
 1. [react知识拾遗](https://github.com/xujie-phper/huge-skills-summary/issues/15)
+2. [react系列之Hooks介绍](https://github.com/xujie-phper/huge-skills-summary/issues/22)
 
 ### vue专题
 
