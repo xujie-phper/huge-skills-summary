@@ -12,6 +12,7 @@
 9. [call,apply,bind的原理和模拟实现](https://github.com/xujie-phper/huge-skills-summary/issues/11)
 10. [require和import的使用区别](https://github.com/xujie-phper/huge-skills-summary/issues/17)
 11. [JS实用小技巧](https://github.com/xujie-phper/huge-skills-summary/issues/20)
+12. [promise的原理实现](https://github.com/xujie-phper/huge-skills-summary/issues/23)
 
 ### css专题
 1. [水平垂直居中](https://github.com/xujie-phper/huge-skills-summary/issues/8)
@@ -25,6 +26,8 @@
 
 ### vue专题
 
+### node专题
+1. [egg的基本介绍](https://github.com/xujie-phper/huge-skills-summary/issues/24)
 
 ### 性能优化
 1. [预渲染](https://github.com/xujie-phper/huge-skills-summary/issues/13)
