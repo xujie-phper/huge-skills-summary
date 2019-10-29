@@ -1,4 +1,4 @@
-## 记录工作学习中的点点滴滴，方便以后跳槽面试 :joy:
+## 记录工作学习中的点点滴滴
 
 ### javascript专题
 1. [数组去重和打乱](https://github.com/xujie-phper/huge-skills-summary/issues/1)
