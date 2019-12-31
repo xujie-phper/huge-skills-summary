@@ -13,6 +13,7 @@
 10. [require和import的使用区别](https://github.com/xujie-phper/huge-skills-summary/issues/17)
 11. [JS实用小技巧](https://github.com/xujie-phper/huge-skills-summary/issues/20)
 12. [promise的原理实现](https://github.com/xujie-phper/huge-skills-summary/issues/23)
+13. [JS](https://github.com/xujie-phper/huge-skills-summary/issues/24)
 
 ### css专题
 1. [水平垂直居中](https://github.com/xujie-phper/huge-skills-summary/issues/8)
